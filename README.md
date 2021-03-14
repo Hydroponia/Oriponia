@@ -1,6 +1,7 @@
 # Oriponia
 
-Organizacion 1.0 del proyecto
+# Organizacion 1.0 del proyecto
+
 
 Labores
 1.Se irá maquetando el sitio
