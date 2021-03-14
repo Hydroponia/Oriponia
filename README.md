@@ -1,9 +1,9 @@
 # Oriponia
 
 # Organizacion 1.0 del proyecto
+- 	[Nomenclatura para editar este archivo](https://www.markdownguide.org/cheat-sheet/)
 
-
-#Labores
+# Labores
 1. Se irá maquetando el sitio
 2. Se estructurara
 3. Se agregará información
